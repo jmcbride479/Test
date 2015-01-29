@@ -1,0 +1,16 @@
+#pressure	temperature
+.004         0.9
+#nSteps         nSample
+  250		25 
+#maxDisp 
+  0.15000
+#vol1Change  
+  0.000250  
+#lHistory           nHistory
+  0                  25000
+#transProb      vol1ChangeProb    vol2ChangeProb
+  0.9500         0.0500            0.0000
+#lCell
+  0
+#lWidom         nWidom         widomTest         
+  0              5              50

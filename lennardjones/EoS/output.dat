@@ -1,0 +1,12 @@
+	Monte Carlo simulation of spherical Lennard-Jones particles
+Author: John McBride
+Written: Jan 2014
+Updated: Jan 2014
+Date: Fri Jan 16 16:24:28 2015
+
+____________________________________________________________________________________________________
+
+
+	Cycles		transAcc	volChAcc	eta	energy
+	25		0.9005		0.9871		0.1409		-9074
+	50		0.8989		0.9801		0.1414		-9116
